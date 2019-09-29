@@ -5,7 +5,7 @@ A proposta desse aplicação é atender uma demanda, no qual era necessário ler
 <h2>Tecnologias usadas:</h2>
 <div>
 <li>Spring Boot 2.1.8
-<li>JDK - versão 1.8 do Java, ou mais recente
+<li>Java 1.8
 <li>Apache POI - Utilizado para ler arquivos excel
 <li>Thymeleaf
 <li>BootStrap 4.3

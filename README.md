@@ -1,6 +1,6 @@
 # Spring-Boot-Ler-Excel-Gerar-Script
 
-A proposta desse aplicação é atender uma demanda, no qual era necessário ler um arquivo excel e gerar três scripts (update, rollback e validação) para rodar em um banco de dados oracle.
+A proposta desse aplicação é atender uma demanda, no qual era necessário ler um arquivo excel e gerar três scripts (update, rollback e validação) para rodar em um banco de dados Oracle.
 
 <h2>Tecnologias usadas:</h2>
 <div>

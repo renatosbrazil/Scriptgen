@@ -1,4 +1,4 @@
-package br.com.rrodrigues.scriptgen;
+package br.com.scriptgen;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -9,5 +9,5 @@ public class ScriptgenApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(ScriptgenApplication.class, args);
 	}
-//teste
+
 }

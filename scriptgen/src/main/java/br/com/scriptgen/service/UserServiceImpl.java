@@ -1,4 +1,4 @@
-package br.com.rrodrigues.scriptgen.service;
+package br.com.scriptgen.service;
 
 import java.io.BufferedWriter;
 import java.io.FileInputStream;
@@ -17,7 +17,7 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import br.com.rrodrigues.scriptgen.exception.BusinessException;
+import br.com.scriptgen.exception.BusinessException;
 
 @Service
 public class UserServiceImpl implements UserService

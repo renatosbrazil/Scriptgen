@@ -1,4 +1,4 @@
-package br.com.rrodrigues.scriptgen.controller;
+package br.com.scriptgen.controller;
 
 import java.io.IOException;
 
@@ -10,8 +10,8 @@ import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import br.com.rrodrigues.scriptgen.exception.BusinessException;
-import br.com.rrodrigues.scriptgen.service.UserService;
+import br.com.scriptgen.exception.BusinessException;
+import br.com.scriptgen.service.UserService;
 
 @Controller
 public class UserController {

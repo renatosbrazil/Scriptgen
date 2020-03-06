@@ -1,9 +1,9 @@
-package br.com.rrodrigues.scriptgen.service;
+package br.com.scriptgen.service;
 
 import org.springframework.web.multipart.MultipartFile;
 import org.springframework.web.servlet.mvc.support.RedirectAttributes;
 
-import br.com.rrodrigues.scriptgen.exception.BusinessException;
+import br.com.scriptgen.exception.BusinessException;
 
 public interface UserService 
 {

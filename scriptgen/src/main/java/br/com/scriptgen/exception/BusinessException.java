@@ -1,4 +1,4 @@
-package br.com.rrodrigues.scriptgen.exception;
+package br.com.scriptgen.exception;
 
 public class BusinessException extends Exception {
 	
